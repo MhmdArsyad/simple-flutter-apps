@@ -6,6 +6,7 @@ Aplikasi ini memiliki 3 halaman, yaitu :
 3. Profile Page (profilears.dart)
 
 Berikut ini adalah Screenshot Tampilan dari Aplikasi :
+
 ![Picture3](https://github.com/MhmdArsyad/simple-flutter-apps/assets/91202011/9ca5ed20-8c4e-47ac-88d2-8499f6b8f889)
 ![Picture2](https://github.com/MhmdArsyad/simple-flutter-apps/assets/91202011/5f2ad010-ca58-4a59-8a6d-740a7cae8bd0)
 ![Picture1](https://github.com/MhmdArsyad/simple-flutter-apps/assets/91202011/2e5bd639-fb3a-4872-b7fe-6d9f0a83bda3)
