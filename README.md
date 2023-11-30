@@ -1,6 +1,9 @@
-# simpleflutterapps
-
-A new Flutter project.
+# Project Aplikasi Flutter Sederhana (Login, Dashboard, Profile)
+Aplikasi ini merupakan project yang saya buat untuk memenuhi Ujian Tengah Semester Mata Kuliah Advance Mobile Programming
+Aplikasi ini memiliki 3 halaman, yaitu
+1. Login Page (main.dart)
+2. Dashboard (dashboard.dart)
+3. Profile Page (profilears.dart)
 
 ## Getting Started
 
